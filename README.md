@@ -1,1 +1,2 @@
 # Multi-level-models
+This project aims to model the frequency of doctor visits to General Practitioners (GPs) in England using a discrete count model. The dataset comprises stratified information based on age and geographical region, with some missing values. Through statistical modeling, we intend to estimate the counts in the missing cells and gain insights into the factors influencing GP visitation patterns.
